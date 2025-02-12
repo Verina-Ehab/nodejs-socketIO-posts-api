@@ -1,0 +1,26 @@
+body{
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  background-color: #131722;
+  color: #fff;
+}
+ input,textarea{
+      background-color: #2e374f !important;
+  color: #fff !important;
+}
+input::placeholder ,textarea::placeholder{
+    color: #fff !important;
+}  
+/*
+li{
+  list-style-type: none;
+  background-color: #a8a8a83d;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  width: auto;
+}
+
+#content{
+  margin-bottom: 120px;
+} */
